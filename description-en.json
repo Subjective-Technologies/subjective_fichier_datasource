@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for 1fichier intended to ingest hosted file content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Fichier",
-      "text": "A Subjective data source for Fichier. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for 1fichier intended to ingest hosted file content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_fichier_datasource/icon.svg",
         "alt": "Fichier icon"
